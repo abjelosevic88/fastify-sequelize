@@ -23,11 +23,9 @@
   ],
   "author": "lyquocnam",
   "license": "MIT",
-  "peerDependencies": {
-    "sequelize": "^5.21.2"
-  },
   "dependencies": {
-    "fastify-plugin": "^1.6.0"
+    "fastify-plugin": "^1.6.0",
+    "sequelize": "^5.21.2"
   },
   "devDependencies": {
     "fastify": "^2.10.0",
