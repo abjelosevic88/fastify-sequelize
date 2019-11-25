@@ -1,6 +1,6 @@
 {
-  "name": "fastify-sequelize",
-  "version": "1.0.4",
+  "name": "fastify-sequelize-latest",
+  "version": "2.0.0",
   "description": "Fastity plugin work with Sequelize (adapter for NodeJS -> Sqlite, Mysql, Mssql, Posgres)",
   "main": "index.js",
   "scripts": {
